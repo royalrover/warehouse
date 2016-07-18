@@ -1,0 +1,21 @@
+{
+  "name": "warehouse",
+  "version": "1.0.0",
+  "description": "upload tool",
+  "main": "app.js",
+  "scripts": {
+    "npm start": "node app.js"
+  },
+  "keywords": [
+    "upload"
+  ],
+  "author": "yuxiu",
+  "license": "MIT",
+  "dependencies": {
+    "art-template": "^3.0.3",
+    "express": "^4.13.1",
+    "morgan": "^1.6.1",
+    "multiparty": "^4.1.2",
+    "router": "^1.1.2"
+  }
+}
